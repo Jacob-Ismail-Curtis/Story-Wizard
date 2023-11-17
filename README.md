@@ -1,5 +1,5 @@
 # StoryWizard
-
+StoryWizard is an iOS app built in Swift that generates a custom children's story based on prompts chosen by the user.
 ## The Goal
 Reading at a young age can help children learn and develop in many ways, such as improving literacy skills or “sparking the imagination”. However, nowadays many parents are expected to buy and store numerous picture books to entertain their children which can be costly. Moreover, children may get bored with the same books and parents will need to buy new ones to keep children interested. StoryWizard aims to save parents time by automating the process of obtaining children’s stories, whilst alleviating the financial burden of having to repeatedly buy and store children’s books.
 
